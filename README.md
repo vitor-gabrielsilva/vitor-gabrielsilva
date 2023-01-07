@@ -16,8 +16,11 @@
 
 <div>
   <a href="https://www.instagram.com/rotiv.biel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vitor-gabriel-754235238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/vitor-gabrielsilva/blob/output/github-contribution-grid-snake.svg)
+##
+
+<div>
+  <img src="https://i.pinimg.com/originals/c1/dc/10/c1dc10bb56883a1b134e50305abe10b8.gif"/>
+</div> 
