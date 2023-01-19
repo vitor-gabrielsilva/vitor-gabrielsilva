@@ -5,8 +5,8 @@
 ##
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=vitor-gabrielsilva&show_icons=true&theme=dracula"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-gabrielsilva&layout=compact&theme=dracula"/>
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=vitor-gabrielsilva&theme=dracula">
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-gabrielsilva&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
